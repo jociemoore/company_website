@@ -1,3 +1,3 @@
 # SpaceDesign Company Website
 
-This is a website for a SpaceDesign company. I used this project to practice front-end development with HTML and CSS.
+The frontend of this website was developed for a fictional company called SpaceDesign using HTML and CSS.
